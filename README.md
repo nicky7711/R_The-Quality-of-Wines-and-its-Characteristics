@@ -7,3 +7,10 @@ I had struggle when I try to find more than 3 relationships, because all the var
 After exploring dataset, the correlation between the quality of wines and other factors are clear, being able to predict what the quality of a certain wine will be by looking up those factors. The most interesting fact is, if the percent of alcohol of a wine is lower than average, it is very likely rated as low quality.
 
 It was able to get a good result from this dataset by using R, but I could get the better results if I had more data, as it had only 1599 rows. I would be able to get the better result if there was a variable about what the wine was made of, such as the type and origin of grapes and the county of manufacture.
+
+## Used Library
+
+* ggplot2
+* gridExtra
+* corrplot
+* dplyr
